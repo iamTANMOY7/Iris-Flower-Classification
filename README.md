@@ -1,2 +1,2 @@
-# Iris Flower Classification
- 
+<h5>IRIS FLOWER CLASSIFICATION</h5>
+<p>The Iris flower dataset consists of three species: setosa, versicolor, and virginica. Develop a model that can classify iris flowers into different species based on their sepal and petal measurements..</p>
